@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "username": "abc",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "sam",
+      "password": "789"
+    },
+    {
+      "username": "savio",
+      "password": "123"
+    },
+    {
+      "username": "alex",
+      "password": "123"
+    },
+    {
+      "username": "alan",
+      "password": "a123"
+    },
+    {
+      "username": "steve",
+      "password": "456"
+    },
+    {
+      "username": "saj",
+      "password": "4567"
+    },
+    {
+      "username": "sa",
+      "password": "1"
+    },
+    {
+      "username": "ap",
+      "password": "987"
+    },
+    {
+      "username": "aq",
+      "password": "567"
+    },
+    {
+      "username": "aw",
+      "password": "456"
+    },
+    {
+      "username": "ar",
+      "password": "10"
+    },
+    {
+      "username": "av",
+      "password": "234"
+    },
+    {
+      "username": "az",
+      "password": "678"
+    },
+    {
+      "username": "aravind",
+      "password": "aravind"
+    },
+    {
+      "username": "leyo",
+      "password": "leyo"
+    },
+    {
+      "username": "leyona",
+      "password": "leyona"
+    },
+    {
+      "username": "Jini",
+      "password": "123"
+    },
+    {
+      "username": "akshaya",
+      "password": "123"
+    },
+    {
+      "username": "Albin Mathew",
+      "password": "123"
+    },
+    {
+      "username": "mona",
+      "password": "london"
+    }
+  ]
+}
